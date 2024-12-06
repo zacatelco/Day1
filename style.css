@@ -1,0 +1,54 @@
+section{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    border-style: none;
+    background-color: #e2e7de;
+    border-radius: 10px;
+
+}
+body{
+    text-align: center;
+    background-color: #879a77;
+}
+ul{
+    display: inline;
+    text-align: center;
+    align-items: center;
+    margin-right: 30px;
+
+}
+
+.facts{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+
+
+/* img{
+    max-height: 500px;
+    margin-top: 20px;
+} */
+
+#img {
+    display: flex;
+    justify-content: center;
+  }
+  
+  img {
+    height: auto;
+    width: 70vh;
+    display: none;
+  }
+  
+  #img-1 {
+    display: block;
+  }
+  
+  button {
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+  }
+  
